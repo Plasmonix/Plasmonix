@@ -25,15 +25,4 @@ Plasmonix@github
     Infos  :  16yo English developer!
 Languages  :  Python, JS, C++
 ```
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Plasmonix&theme=dark&show_icons=true">
-</p>
-
-<p align="center">
-  <img alt="Followers" src="https://img.shields.io/github/followers/Plasmonix?style=for-the-badge&logo=stylelint&color=blueviolet">
-  <img src="https://komarev.com/ghpvc/?username=Its-Vichy&style=for-the-badge&logo=Streamlit&color=blueviolet&logo=Bookmeter">
-  <img alt="Total Stars" src="https://img.shields.io/github/stars/Plasmonix?style=for-the-badge&logo=Streamlit&color=blueviolet">
-</p>
-
 <hr>
